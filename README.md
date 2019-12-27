@@ -1,0 +1,2 @@
+# Charter-Flights
+This project was something that I quickly created for my girlfriend. For her job, she was supposed to manually collect information about these charter flights from a system called Avinode. However, this task was tedious and required her to click each flight individually in order to access the information she needed. Accordingly, I used Selenium in Python to automate this process.
